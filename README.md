@@ -11,4 +11,4 @@ I like robots 🤖
 
 🌐 [kyleqi.com](https://kyleqi.com)  
 ✉️ [contact@kyleqi.com](mailto:contact@kyleqi.com)  
-💼 [linkedin.com/in/kyleqi](https://linkedin.com/in/kyleqi)
+💼 [linkedin.com/in/kyleqi-](https://linkedin.com/in/kyleqi-)
