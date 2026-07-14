@@ -1,6 +1,6 @@
 # Hello, I'm Kyle
 
-![Windows XP Bliss](./assets/bliss)
+![Windows XP Bliss](./assets/bliss.webp)
 
 I am a senior at the University of Waterloo studying Mechatronics Engineering + Computing + AI.
 
