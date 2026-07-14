@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello, I'm Kyle
 
-<!--
-**kyle-qi/kyle-qi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a senior at the University of Waterloo studying Mechatronics Engineering + Computing + AI.
+Currently seeking 2027 internship and new-grad opportunities.
+I like robots.
 
-Here are some ideas to get you started:
+--
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+kyleqi.com
+contact@kyleqi.com
+linkedin.com/in/kyleqi
+
+
+
